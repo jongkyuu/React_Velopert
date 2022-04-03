@@ -1,0 +1,16 @@
+.box {
+  width: 150px;
+  height: 100px;
+  background: tomato;
+  font-size: 30px;
+  color: white;
+  margin: 10px;
+  float: left;
+}
+
+.otherBox {
+  width: 200px;
+  height: 150px;
+  background: orange;
+  clear: both;
+}
