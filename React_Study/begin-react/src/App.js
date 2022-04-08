@@ -1,21 +1,11 @@
 // import logo from './logo.svg';
 import React from 'react';
 import './App.css';
-import Counter from './Counter';
-import Hello from "./Hello";
-import Wrapper from './Wrapper';
+import InputSample from './InputSample';
 
 function App() {
-  const name = "react";
-  const style = {
-    backgroundColor : 'black',
-    color : 'aqua',
-    fontSize : 24, 
-    padding : '1rem'
-  }
   return (
-    <Counter />
-
+    <InputSample />
   );
 }
 
